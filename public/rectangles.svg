@@ -1,0 +1,25 @@
+<svg width="1024" height="175" viewBox="0 0 1024 175" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 173H102" stroke="#F7D7C5" stroke-width="4.2907"/>
+<path d="M152 175V139H51V175" stroke="#F7D7C5" stroke-width="4.2907"/>
+<rect x="120.145" y="97.1453" width="97.7093" height="60.7093" stroke="#F7D7C5" stroke-width="4.2907"/>
+<rect x="479.145" y="97.1453" width="60.7093" height="61.7093" stroke="#F7D7C5" stroke-width="4.2907"/>
+<mask id="path-5-inside-1" fill="white">
+<path d="M252 171H353V175H252V171Z"/>
+</mask>
+<path d="M252 171V166.709H247.709V171H252ZM353 171H357.291V166.709H353V171ZM353 175V179.291H357.291V175H353ZM252 175H247.709V179.291H252V175ZM252 175.291H353V166.709H252V175.291ZM348.709 171V175H357.291V171H348.709ZM353 170.709H252V179.291H353V170.709ZM256.291 175V171H247.709V175H256.291Z" fill="#F7D7C5" mask="url(#path-5-inside-1)"/>
+<path d="M404 175V137H302V175" stroke="#F7D7C5" stroke-width="4.2907"/>
+<rect x="355.145" y="78.1453" width="97.7093" height="60.7093" stroke="#F7D7C5" stroke-width="4.2907"/>
+<path d="M611 175V119H510V175" stroke="#F7D7C5" stroke-width="4.2907"/>
+<rect x="712.145" y="65.1453" width="63.7093" height="60.7093" stroke="#F7D7C5" stroke-width="4.2907"/>
+<rect x="284.145" y="89.1453" width="51.7093" height="60.7093" stroke="#F7D7C5" stroke-width="4.2907"/>
+<path d="M947.145 62.1453H1021.85V123.855H947.145V62.1453Z" stroke="#F7D7C5" stroke-width="4.2907"/>
+<path d="M721 175V119H620V175" stroke="#F7D7C5" stroke-width="4.2907"/>
+<rect x="571.145" y="95.1453" width="97.7093" height="60.7093" stroke="#F7D7C5" stroke-width="4.2907"/>
+<path d="M931 175V109H849V175" stroke="#F7D7C5" stroke-width="4.2907"/>
+<path d="M1010 175V137H908V175" stroke="#F7D7C5" stroke-width="4.2907"/>
+<rect x="807.145" y="63.1453" width="97.7093" height="60.7093" stroke="#F7D7C5" stroke-width="4.2907"/>
+<rect x="734.145" y="90.1453" width="96.7093" height="60.7093" stroke="#F7D7C5" stroke-width="4.2907"/>
+<path d="M890.145 2.14535H1020.85V90.8547H890.145V2.14535Z" stroke="#F7D7C5" stroke-width="4.2907"/>
+<path d="M245 111V175" stroke="#F7D7C5" stroke-width="5"/>
+<path d="M220 109H284" stroke="#F7D7C5" stroke-width="5"/>
+</svg>

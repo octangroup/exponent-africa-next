@@ -45,19 +45,45 @@
 }
 
 .title {
-  margin: 0;
-  line-height: 1.15;
-  font-size: 4rem;
+  position: absolute;
+  width: 579px;
+  height: 109px;
+  left: 80px;
+  top: 185px;
+  
+  /* Header 1 64 pt */
+  
+  font-family: Monda;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 67px;
+  line-height: 109px;
+  text-align: center;
+  letter-spacing: -0.07em;
+  
 }
 
 .title,
 .description {
-  text-align: center;
+  margin-right: 6.25%;
 }
 
 .description {
-  line-height: 1.5;
-  font-size: 1.5rem;
+  position: absolute;
+width: 328px;
+height: 59px;
+left: 80px;
+top: 293px;
+
+/* Header 2 36 pt */
+
+font-family: Monda;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 59px;
+
+color: #3A3C3D;
 }
 
 .code {
