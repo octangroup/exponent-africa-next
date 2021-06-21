@@ -2,8 +2,8 @@ html,
 body {
   padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  width: 100vw;
+
 }
 
 a {
@@ -13,4 +13,122 @@ a {
 
 * {
   box-sizing: border-box;
+  margin: 0;
 }
+
+.row {
+  padding: 6.25%;  
+}
+
+div.container-fluid {
+  /* height: 555px; */
+  /* background-image: url("/public/background.png"); */
+  background-color: #FCF2EC;
+}
+
+h1 {
+  font-family: Monda; 
+  font-style: normal;
+  font-weight: normal;
+  line-height: 109px;
+  font-size: 67px;
+  letter-spacing: -0.07em; 
+  color: #E3783E;
+  margin-bottom: 0;
+}
+
+.subtitle {
+  font-family: Monda;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 59px;
+  color: #3A3C3D;
+}
+
+.button {
+  border: none;
+  padding: 20px 40px; 
+  color: white;
+  background-color: #E3783E;
+  outline: none;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 27px;
+  line-height: 33px;
+}
+
+button:hover {
+  border: 1px solid black;
+  color: black;
+  background: none;
+}
+
+.btn {
+  border: none;
+  padding: 13px 30px; 
+  color: white;
+  background-color: #E3783E;
+  outline: none;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 33px;
+}
+
+.humaan {
+  margin-top: 50%;
+}
+
+.banner {
+  height: 555px;  
+  width: 100vw;  
+  object-position: center top;
+}
+
+.navbar {
+  border:none;
+  margin: 1% 6.25% 7% 6.25%;
+
+}
+
+.navbar-toggle {
+  background-color: #E3783E!important;
+}
+
+nav.navbar li a {
+  color: rgb(0, 0, 0) !important;
+  font-size: 20px;
+  font-family: Monda;
+  font-style: normal;
+  font-weight: normal;
+  justify-content: center;
+}
+
+.navbar-toggle {
+  margin: 7%;
+  padding: 5%;
+}
+
+#myNavbar {
+  margin-left: 10%;
+  margin-top: 2%;
+}
+
+nav.navbar li a:hover {
+  color: #E3783E !important;
+}
+nav.navbar li .active {
+  color: #E3783E !important;
+  border-bottom: 2px solid #E3783E;
+  border-width: 50%;
+}
+
+nav.navbar li a:hover button {
+  border:none;
+  background: none;
+  border: 1px solid #E3783E;
+  color: #E3783E;
+
+}
+
